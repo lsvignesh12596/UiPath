@@ -1,0 +1,18 @@
+1. Create ObjectRepository Folder
+2. Create a project called Vignesh
+3. Create object Repository
+4. Show its functioning
+5. Export as a library
+6. Publish the library to the ObjectRepository Folder
+7. Import this library into Vignesh Project
+8. Check the functioning again
+9. Create 2 more projects - User1, User2
+10. Import the package into these and run them to show its working
+11. Modify the page
+12. Run the prev code and show that its not working
+13. Update the library accordingly and publish
+14. Update the package in other projects
+15. Run and show
+
+
+javascript:document.body.contentEditable="True"

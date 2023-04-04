@@ -1,0 +1,4 @@
+1. https://docs.uipath.com/installation-and-upgrade/docs/studio-enabling-gmail-for-email-activities
+2. https://myaccount.google.com/lesssecureapps?pli=1
+
+

@@ -1,0 +1,23 @@
+
+
+
+S1_Dispatcher_QueueName - S1_HR_UseCase_Dispatcher_Queue
+S1_Dispatcher_InputFilePath - C:\Users\vignesh.ls\Documents\UiPath\HR Use Case Dispatcher S1 Linear\CandidateInfo.xlsx
+
+Add log messages in dispatcher
+Tenant - Manage acess - uipath sessions - Allow Automatio User
+Tenant - Folders - S1 - machines - manage machines in folder - select machine - click update
+Tenant - Folders - S1 -machines - Edit - Give Production License
+Go to studio - bottom - click refresh - select S1
+Publish Package
+Go to My workspace Folder - automations - start process - it should be empty
+Go to S1 Folder - automations - start process - you should see the package
+Create Assets
+Show per robot value
+Link the process
+Start the job
+Show queues
+Go back to automation jobs - show logs
+
+
+S2_Dispatcher_InputFilePath
